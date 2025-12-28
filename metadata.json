@@ -1,0 +1,8 @@
+{
+  "name": "Copy of Chronos AI: Cybernetic Alarm Suite",
+  "description": "A high-tech, futuristic alarm clock and productivity suite featuring AI morning briefings, world clocks, stopwatches, Pomodoro timers, and immersive soundscapes.",
+  "requestFramePermissions": [
+    "microphone",
+    "geolocation"
+  ]
+}
